@@ -4,15 +4,20 @@
     {
       "src": "final/asgi.py",
       "use": "@vercel/python"
+    },
+    {
+      "src": "staticfiles/**",
+      "use": "@vercel/static"
     }
   ],
   "routes": [
     {
+      "src": "/static/(.*)",
+      "dest": "staticfiles/$1"
+    },
+    {
       "src": "/(.*)",
       "dest": "final/asgi.py"
     }
-  ],
-  "env": {
-    "DATABASE_URL": "postgresql://neondb_owner:npg_snhOMy7e8HKu@ep-proud-mode-ayitmowp.c-5.us-east-2.aws.neon.tech/neondb?sslmode=require"
-  }
+  ]
 }
