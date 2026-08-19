@@ -1,0 +1,285 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#: .\templates\index.html:408
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-08-16 04:38+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || "
+"(n%100>=11 && n%100<=14)? 2 : 3);\n"
+#: .\final\settings.py:111
+msgid "Oʻzbek"
+msgstr ""
+
+#: .\final\settings.py:112
+msgid "Русский"
+msgstr "Русский"
+
+#: .\final\settings.py:113
+msgid "English"
+msgstr "Английский"
+
+#: .\final\settings.py:114
+msgid "日本語"
+msgstr "японский"
+
+#: .\templates\index.html:51 .\templates\index.html:207
+msgid "Restoran"
+msgstr "Ресторан"
+
+#: .\templates\index.html:60
+msgid "Home"
+msgstr "Главная"
+
+#: .\templates\index.html:61
+msgid "About"
+msgstr "о нас"
+
+#: .\templates\index.html:62
+msgid "Service"
+msgstr "Услуга"
+
+#: .\templates\index.html:63
+msgid "Menu"
+msgstr "Меню"
+
+#: .\templates\index.html:65
+msgid "Pages"
+msgstr "Страницы"
+
+#: .\templates\index.html:67
+msgid "Booking"
+msgstr "Бронирование"
+
+#: .\templates\index.html:68
+msgid "Our Team"
+msgstr "Наша команда"
+
+#: .\templates\index.html:69 .\templates\index.html:402
+msgid "Testimonial"
+msgstr "Отзыв"
+
+#: .\templates\index.html:72
+msgid "Contact"
+msgstr "Контакт"
+
+#: .\templates\index.html:75 .\templates\index.html:129
+msgid "Book A Table"
+msgstr "Забронируйте столик"
+
+#: .\templates\index.html:127
+msgid "Mahorat va sarxil go'sht"
+msgstr "Мастерство и нежное мясо"
+
+#: .\templates\index.html:127
+msgid "Betakror ta'm uyg'unligi"
+msgstr "Уникальная гармония вкуса"
+
+#: .\templates\index.html:128
+msgid ""
+"Biz bilan har bir taom — bu san'at. Haqiqiy ta'm va unutilmas lahzalar "
+"maskani."
+msgstr "Каждый прием пищи у нас — это искусство. Место, где вас ждут истинный вкус и незабываемые моменты."
+
+
+#: .\templates\index.html:148 .\templates\index.html:225
+msgid "Master Chefs"
+msgstr "Шеф-повара высшего класса"
+
+#: .\templates\index.html:149
+msgid ""
+"Oshpazimizning maxsus retseptlari asosida tayyorlangan eksklyuziv taomlar."
+msgstr "Эксклюзивные блюда, приготовленные по особым рецептам нашего шеф-повара."
+
+
+#: .\templates\index.html:157
+msgid "Quality Food"
+msgstr "Качественная еда"
+
+#: .\templates\index.html:158
+msgid ""
+"Maxsus saralangan Yevropa go'sht navlari, Dry-Aged texnologiyasida "
+"pishitilgan sersharbat steyklar va klassik souslar."
+msgstr "Специально отобранные европейские сорта мяса, сочные стейки, приготовленные по технологии сухой выдержки, и классические соусы."
+
+
+#: .\templates\index.html:166
+msgid "Online Order"
+msgstr "Онлайн-заказ"
+
+#: .\templates\index.html:167
+msgid ""
+"Har bir buyurtma maxsus termopaketlarga qadoqlanib, taomning issiqligi va "
+"asl ta'mi saqlangan holda tezkor yetkazib beriladi."
+msgstr "Каждый заказ упаковывается в специальную термоупаковку, что обеспечивает быструю доставку и сохраняет тепло и первоначальный вкус продуктов."
+
+
+#: .\templates\index.html:175
+msgid "24/7 Service"
+msgstr "Круглосуточное обслуживание"
+
+#: .\templates\index.html:176
+msgid ""
+"Tunning istalgan vaqtida oliy darajadagi ta'm va e'tibor.Biz sizning "
+"vaqtingizni va qulayligingizni qadrlaymiz."
+msgstr "Изысканный вкус и внимание к деталям в любое время суток. Мы ценим ваше время и удобство."
+
+
+#: .\templates\index.html:206 .\templates\index.html:461
+msgid "About Us"
+msgstr "О нас"
+
+#: .\templates\index.html:207
+msgid "Welcome to"
+msgstr "Добро пожаловать в"
+
+#: .\templates\index.html:208
+msgid ""
+"Bizning restoranimizga xush kelibsiz! Biz shunchaki taom tayyorlamaymiz, "
+"balki har bir mehmonga samimiy mehmondoStatus va a'lo kayfiyat ulashamiz."
+msgstr "Добро пожаловать в наш ресторан! Мы не просто готовим еду, мы также предлагаем искреннее гостеприимство и прекрасную атмосферу каждому гостю."
+
+
+#: .\templates\index.html:209
+msgid ""
+"Sarxil masalliqlar, mohir oshpazlarimiz mahorati va shinam muhit sizning "
+"tashrifingizni unutilmas qiladi. Oila bag'rida tushlik qilish yoki maxsus "
+"kunlarni nishonlash uchun eng maqbul tanlov!"
+msgstr "Изысканные ингредиенты, мастерство наших опытных шеф-поваров и уютная атмосфера сделают ваше посещение незабываемым. Идеальный выбор для семейного обеда или празднования особых событий!"
+
+
+#: .\templates\index.html:215
+msgid "Years of"
+msgstr "Годы"
+
+#: .\templates\index.html:216
+msgid "Experience"
+msgstr "Опыт"
+
+#: .\templates\index.html:224
+msgid "Popular"
+msgstr "Популярный"
+
+#: .\templates\index.html:230
+msgid "Read More"
+msgstr "Читать далее"
+
+#: .\templates\index.html:255 .\templates\index.html:463
+msgid "Reservation"
+msgstr "Бронирование"
+
+#: .\templates\index.html:256
+msgid "Book A Table Online"
+msgstr "Забронируйте столик онлайн"
+
+#: .\templates\index.html:278
+msgid "Ismingiz"
+msgstr "Ваше имя"
+
+#: .\templates\index.html:284
+msgid "Email"
+msgstr "Электронная почта"
+
+#: .\templates\index.html:290
+msgid "Sana"
+msgstr "Дата"
+
+#: .\templates\index.html:296
+msgid "Vaqt / Soat"
+msgstr "Время / Часы"
+
+#: .\templates\index.html:302
+msgid "Odamlar soni"
+msgstr "Количество людей"
+
+#: .\templates\index.html:308
+msgid "Tashrif sababi"
+msgstr "Причина визита"
+
+#: .\templates\index.html:314
+msgid "Qo'shimcha istaklar"
+msgstr "Дополнительные пожелания"
+
+#: .\templates\index.html:318
+msgid "Hozir bron qilish"
+msgstr "Забронируйте сейчас"
+
+#: .\templates\index.html:332
+msgid "Team Members"
+msgstr "Члены команды"
+
+#: .\templates\index.html:333
+msgid "Our Master Chefs"
+msgstr "Наши шеф-повара"
+
+#: .\templates\index.html:341 .\templates\index.html:355
+#: .\templates\index.html:369 .\templates\index.html:383
+msgid "Full Name"
+msgstr "Полное имя"
+
+#: .\templates\index.html:342 .\templates\index.html:356
+#: .\templates\index.html:370 .\templates\index.html:384
+msgid "Designation"
+msgstr "Обозначение"
+
+#: .\templates\index.html:403
+msgid "Our Clients Say!!!"
+msgstr "Наши клиенты говорят!!!"
+
+#: .\templates\index.html:412 .\templates\index.html:423
+#: .\templates\index.html:434 .\templates\index.html:445
+msgid "Client Name"
+msgstr "Имя клиента"
+
+#: .\templates\index.html:413 .\templates\index.html:424
+#: .\templates\index.html:435 .\templates\index.html:446
+msgid "Profession"
+msgstr "Профессия"
+
+#: .\templates\index.html:419
+msgid ""
+"Toshkentdagi eng sifatli va nozik ta'mga ega Yevropa oshxonasi! Dry-Aged "
+"pishitilgan go'sht va fransuz desertlari shunchaki san'at darajasida "
+"tayyorlangan. Har bir taom uzatilganda oshpazning yuksak mahorati sezilib "
+"turadi. Albatta, yana qaytib kelaman."
+msgstr "В Ташкенте вы найдете европейскую кухню высочайшего качества и с самыми изысканными вкусами! Вяленое мясо и французские десерты – это просто произведение искусства. Мастерство шеф-повара проявляется в каждом блюде. ​​Я обязательно вернусь."
+
+
+#: .\templates\index.html:430
+msgid ""
+"Nikohimizning yilligini nishonlash uchun VIP zonani band qilgandik. Xodimlar "
+"e'tibori, stoldagi nozik bezaklar va jonli musiqali muhit kechamizni "
+"ertaknamo qildi. Tun yarmi bo'lishiga qaramay, xizmat ko'rsatish darajasi va "
+"taomlar issiqligi a'lo darajada edi."
+msgstr "Мы забронировали VIP-зону, чтобы отпраздновать годовщину нашей свадьбы. Внимание персонала, изысканное оформление столов и живая музыка превратили наш вечер в сказку. Несмотря на то, что было полночь, уровень обслуживания и температура еды были превосходными."
+
+
+#: .\templates\index.html:441
+msgid ""
+"Ko'p davlatlarda bo'laman va Yevropa Fine Dining standartlarini yaxshi "
+"bilaman. Ushbu restoran men kutgandan ham a'lo xizmat ko'rsatdi. Tasodifan "
+"online buyurtma xizmatidan ham foydalandim — qadoqlanishi va tezkorligi "
+"hayratlanarli. Haqiqiy premium daraja!"
+msgstr "Я побывал во многих странах и знаком с европейскими стандартами высокой кухни. Этот ресторан предоставил превосходное обслуживание, превзошедшее все мои ожидания. К тому же, я воспользовался услугой онлайн-заказа — упаковка и скорость заказа просто потрясающие. По-настоящему премиум-класс!"
+
+
+#: .\templates\index.html:460
+msgid "Company"
+msgstr "Компания"
+
+#: .\templates\index.html:462
+msgid "Contact Us"
+msgstr "Связаться с нами"

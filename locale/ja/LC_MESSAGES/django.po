@@ -1,0 +1,273 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#: .\templates\index.html:408
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-08-16 04:39+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+#: .\final\settings.py:111
+msgid "Oʻzbek"
+msgstr ""
+
+#: .\final\settings.py:112
+msgid "Русский"
+msgstr "ロシア語"
+
+#: .\final\settings.py:113
+msgid "English"
+msgstr "英語"
+
+#: .\final\settings.py:114
+msgid "日本語"
+msgstr "日本語"
+
+#: .\templates\index.html:51 .\templates\index.html:207
+msgid "Restoran"
+msgstr "レストラン"
+
+#: .\templates\index.html:60
+msgid "Home"
+msgstr "ホームページ"
+
+#: .\templates\index.html:61
+msgid "About"
+msgstr "について"
+
+#: .\templates\index.html:62
+msgid "Service"
+msgstr "サービス"
+
+#: .\templates\index.html:63
+msgid "Menu"
+msgstr "メニュー"
+
+#: .\templates\index.html:65
+msgid "Pages"
+msgstr "ページ"
+
+#: .\templates\index.html:67
+msgid "Booking"
+msgstr "予約"
+
+#: .\templates\index.html:68
+msgid "Our Team"
+msgstr "私たちのチーム"
+
+#: .\templates\index.html:69 .\templates\index.html:402
+msgid "Testimonial"
+msgstr "お客様の声"
+
+#: .\templates\index.html:72
+msgid "Contact"
+msgstr "お問い合わせ"
+
+#: .\templates\index.html:75 .\templates\index.html:129
+msgid "Book A Table"
+msgstr "テーブルを予約する"
+
+#: .\templates\index.html:127
+msgid "Mahorat va sarxil go'sht"
+msgstr "熟練の技と柔らかい肉"
+
+#: .\templates\index.html:127
+msgid "Betakror ta'm uyg'unligi"
+msgstr "他に類を見ない味の調和"
+
+#: .\templates\index.html:128
+msgid ""
+"Biz bilan har bir taom — bu san'at. Haqiqiy ta'm va unutilmas lahzalar "
+"maskani."
+msgstr "当店でのお食事はどれも芸術です。真の味わいと忘れられないひとときをお過ごしいただける場所です。"
+
+#: .\templates\index.html:148 .\templates\index.html:225
+msgid "Master Chefs"
+msgstr "マスターシェフ"
+
+#: .\templates\index.html:149
+msgid ""
+"Oshpazimizning maxsus retseptlari asosida tayyorlangan eksklyuziv taomlar."
+msgstr "シェフ特製のレシピに基づいて調理された、特別な料理の数々。"
+
+#: .\templates\index.html:157
+msgid "Quality Food"
+msgstr "質の高い食品"
+
+#: .\templates\index.html:158
+msgid ""
+"Maxsus saralangan Yevropa go'sht navlari, Dry-Aged texnologiyasida "
+"pishitilgan sersharbat steyklar va klassik souslar."
+msgstr "厳選されたヨーロッパ産の肉、ドライエイジング技術を用いて調理したジューシーなステーキ、そして定番のソース。"
+
+#: .\templates\index.html:166
+msgid "Online Order"
+msgstr "オンライン注文"
+
+#: .\templates\index.html:167
+msgid ""
+"Har bir buyurtma maxsus termopaketlarga qadoqlanib, taomning issiqligi va "
+"asl ta'mi saqlangan holda tezkor yetkazib beriladi."
+msgstr "ご注文いただいた商品はすべて専用の保温包装で梱包し、食品の温かさと本来の味を保ちながら、迅速な配送を実現します。"
+
+#: .\templates\index.html:175
+msgid "24/7 Service"
+msgstr "24時間年中無休サービス"
+
+#: .\templates\index.html:176
+msgid ""
+"Tunning istalgan vaqtida oliy darajadagi ta'm va e'tibor.Biz sizning "
+"vaqtingizni va qulayligingizni qadrlaymiz."
+msgstr ""
+
+#: .\templates\index.html:206 .\templates\index.html:461
+msgid "About Us"
+msgstr "私たちについて"
+
+#: .\templates\index.html:207
+msgid "Welcome to"
+msgstr "ようこそ"
+
+#: .\templates\index.html:208
+msgid ""
+"Bizning restoranimizga xush kelibsiz! Biz shunchaki taom tayyorlamaymiz, "
+"balki har bir mehmonga samimiy mehmondoStatus va a'lo kayfiyat ulashamiz."
+msgstr "当店へようこそ！私たちはただ料理を提供するだけでなく、お客様一人ひとりに温かいおもてなしと素敵な雰囲気をお届けしたいと考えています。"
+
+#: .\templates\index.html:209
+msgid ""
+"Sarxil masalliqlar, mohir oshpazlarimiz mahorati va shinam muhit sizning "
+"tashrifingizni unutilmas qiladi. Oila bag'rida tushlik qilish yoki maxsus "
+"kunlarni nishonlash uchun eng maqbul tanlov!"
+msgstr "厳選された食材、熟練シェフの技、そして居心地の良い雰囲気で、忘れられないひとときをお過ごしいただけます。ご家族でのランチや特別な日のお祝いに最適です！"
+
+#: .\templates\index.html:215
+msgid "Years of"
+msgstr "長年"
+
+#: .\templates\index.html:216
+msgid "Experience"
+msgstr "経験"
+
+#: .\templates\index.html:224
+msgid "Popular"
+msgstr "人気のある"
+
+#: .\templates\index.html:230
+msgid "Read More"
+msgstr "続きを読む"
+
+#: .\templates\index.html:255 .\templates\index.html:463
+msgid "Reservation"
+msgstr "予約"
+
+#: .\templates\index.html:256
+msgid "Book A Table Online"
+msgstr "オンラインでテーブルを予約する"
+
+#: .\templates\index.html:278
+msgid "Ismingiz"
+msgstr "あなたの名前"
+
+#: .\templates\index.html:284
+msgid "Email"
+msgstr "メール"
+
+#: .\templates\index.html:290
+msgid "Sana"
+msgstr "日付"
+
+#: .\templates\index.html:296
+msgid "Vaqt / Soat"
+msgstr "時間／時計"
+
+#: .\templates\index.html:302
+msgid "Odamlar soni"
+msgstr "人数"
+
+#: .\templates\index.html:308
+msgid "Tashrif sababi"
+msgstr "訪問理由"
+
+#: .\templates\index.html:314
+msgid "Qo'shimcha istaklar"
+msgstr "その他の希望"
+
+#: .\templates\index.html:318
+msgid "Hozir bron qilish"
+msgstr "今すぐ予約"
+
+#: .\templates\index.html:332
+msgid "Team Members"
+msgstr "チームメンバー"
+
+#: .\templates\index.html:333
+msgid "Our Master Chefs"
+msgstr "私たちのマスターシェフたち"
+
+#: .\templates\index.html:341 .\templates\index.html:355
+#: .\templates\index.html:369 .\templates\index.html:383
+msgid "Full Name"
+msgstr "氏名"
+
+#: .\templates\index.html:342 .\templates\index.html:356
+#: .\templates\index.html:370 .\templates\index.html:384
+msgid "Designation"
+msgstr "指定"
+
+#: .\templates\index.html:403
+msgid "Our Clients Say!!!"
+msgstr "お客様の声!!!"
+
+#: .\templates\index.html:412 .\templates\index.html:423
+#: .\templates\index.html:434 .\templates\index.html:445
+msgid "Client Name"
+msgstr "クライアント名"
+
+#: .\templates\index.html:413 .\templates\index.html:424
+#: .\templates\index.html:435 .\templates\index.html:446
+msgid "Profession"
+msgstr "職業"
+
+#: .\templates\index.html:419
+msgid ""
+"Toshkentdagi eng sifatli va nozik ta'mga ega Yevropa oshxonasi! Dry-Aged "
+"pishitilgan go'sht va fransuz desertlari shunchaki san'at darajasida "
+"tayyorlangan. Har bir taom uzatilganda oshpazning yuksak mahorati sezilib "
+"turadi. Albatta, yana qaytib kelaman."
+msgstr "タシュケントで最高品質かつ最も繊細な味わいのヨーロッパ料理！ドライエイジングされた肉料理やフランスデザートはまさに芸術の域に達しています。シェフの高い技術は、提供されるすべての料理に表れています。必ずまた来ます。"
+
+#: .\templates\index.html:430
+msgid ""
+"Nikohimizning yilligini nishonlash uchun VIP zonani band qilgandik. Xodimlar "
+"e'tibori, stoldagi nozik bezaklar va jonli musiqali muhit kechamizni "
+"ertaknamo qildi. Tun yarmi bo'lishiga qaramay, xizmat ko'rsatish darajasi va "
+"taomlar issiqligi a'lo darajada edi."
+msgstr "結婚記念日のお祝いにVIPエリアを予約しました。スタッフの行き届いた気配り、繊細なテーブル装飾、そして生演奏のおかげで、まるで夢のような夜を過ごすことができました。真夜中にもかかわらず、サービスの質も料理の温かさも申し分ありませんでした。"
+
+#: .\templates\index.html:441
+msgid ""
+"Ko'p davlatlarda bo'laman va Yevropa Fine Dining standartlarini yaxshi "
+"bilaman. Ushbu restoran men kutgandan ham a'lo xizmat ko'rsatdi. Tasodifan "
+"online buyurtma xizmatidan ham foydalandim — qadoqlanishi va tezkorligi "
+"hayratlanarli. Haqiqiy premium daraja!"
+msgstr "私は多くの国を訪れたことがあり、ヨーロッパの高級レストランの基準をよく知っています。このレストランは私の期待をはるかに超える素晴らしいサービスを提供してくれました。たまたまオンライン注文サービスを利用したのですが、梱包とスピードが驚くほど素晴らしかったです。まさにプレミアムな体験でした！"
+
+#: .\templates\index.html:460
+msgid "Company"
+msgstr "会社"
+
+#: .\templates\index.html:462
+msgid "Contact Us"
+msgstr "お問い合わせ"
