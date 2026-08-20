@@ -180,13 +180,13 @@ EMAIL_USE_TLS = True
 EMAIL_HOST_USER = 'resend'  # Bu o'zgarmaydi, matn holida qoladi
 
 # Maxfiy kalitni to'g'ridan-to'g'ri fayl ichiga yozamiz (Vercel o'qishi uchun)
-EMAIL_HOST_PASSWORD = 're_PmrczSTG_KLvriYZEWbcrLngsN4y8GsKG' 
+
 
 DEFAULT_FROM_EMAIL = 'onboarding@resend.dev'  # Bepul jo'natuvchi nomi
 
 
-# Resend Email sozlamasi
-RESEND_API_KEY = 're_PmrczSTG_KLvriYZEWbcrLngsN4y8GsKG'
+EMAIL_HOST_PASSWORD = os.environ.get('RESEND_API_KEY')
+
 
 # Til sozlamalari
 LANGUAGE_COOKIE_NAME = 'django_language'
